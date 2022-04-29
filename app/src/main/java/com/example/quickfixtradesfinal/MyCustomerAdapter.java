@@ -69,3 +69,7 @@ public class MyCustomerAdapter extends RecyclerView.Adapter<MyCustomerAdapter.My
         }
     }
 }
+/* //FoxAndroid(14/4/2021 Firebase Data to RecyclerView
+ How to Retrieve Firebase Data into Recyclerview
+ | Android Studio [video].
+ https://www.youtube.com/watch?v=M8sKwoVjqU0 */

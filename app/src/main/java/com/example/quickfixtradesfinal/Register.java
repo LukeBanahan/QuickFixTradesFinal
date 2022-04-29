@@ -89,3 +89,8 @@ public class Register extends AppCompatActivity implements View.OnClickListener 
         return checkEmail;
     }
 }
+/* //CodeWithMazn
+ *7/06/2020
+ * #1 Login and Registration Android App Tutorial Using Firebase Authentication - Create User
+ * | | Android Studio [video].
+ * https://www.youtube.com/watch?v=Z-RE1QuUWPg */

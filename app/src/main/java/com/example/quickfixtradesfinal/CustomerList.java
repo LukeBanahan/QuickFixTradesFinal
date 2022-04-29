@@ -93,3 +93,8 @@ public class CustomerList extends AppCompatActivity {
 
     }
 }
+/* //Coding In Flow
+ *16/11/2017
+ * #Search Functionality for RecyclerView - Android Studio Tutorial
+ * | | Android Studio [video].
+ * https://www.youtube.com/watch?v=OWwOSLfWboY&t=271s */
