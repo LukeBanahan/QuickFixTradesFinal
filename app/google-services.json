@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808324368050",
+    "project_id": "quickfixtradesfinal",
+    "storage_bucket": "quickfixtradesfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808324368050:android:f946f47ae242e9806b2bab",
+        "android_client_info": {
+          "package_name": "com.example.quickfixtradesfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808324368050-49q8lmsj8hk3sfhti1j4oi5fmpo29181.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6dZZIB-cxL0PIl8ThK4cpjcv4dbcHyEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808324368050-49q8lmsj8hk3sfhti1j4oi5fmpo29181.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

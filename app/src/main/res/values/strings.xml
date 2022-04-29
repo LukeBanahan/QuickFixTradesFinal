@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">QuickFixTradesFinal</string>
+    <string name="customers_click_here">Customers Click Here</string>
+    <string name="workers_click_here">Workers Click Here</string>
+    <string name="email_address">Email Address</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="no_job_too_small">No Job Too Small</string>
+    <string name="password">Password</string>
+    <string name="already_registered_click_here">Already Registered? Click here</string>
+    <string name="register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="quickfix_trades">QuickFix Trades</string>
+    <string name="full_name">Full Name</string>
+    <array name="locations">Location
+        <item>Dublin</item>
+        <item>Antrim</item>
+        <item>Armagh</item>
+        <item>Carlow</item>
+        <item>Cavan</item>
+        <item>Clare</item>
+        <item>Cork</item>
+        <item>Derry</item>
+        <item>Donegal</item>
+        <item>Down</item>
+        <item>Fermanagh</item>
+        <item>Galway</item>
+        <item>Kerry</item>
+        <item>Kildare</item>
+        <item>Kilkenny</item>
+        <item>Laois</item>
+        <item>Leitrim</item>
+        <item>Limerick</item>
+        <item>Longford</item>
+        <item>Louth</item>
+        <item>Mayo</item>
+        <item>Meath</item>
+        <item>Monaghan</item>
+        <item>Offaly</item>
+        <item>Roscommon</item>
+        <item>Sligo</item>
+        <item>Tipperary</item>
+        <item>Tyrone</item>
+        <item>Waterford</item>
+        <item>Westmeath</item>
+        <item>Wexford</item>
+        <item>Wicklow</item>
+    </array>
+    <array name="trades">Trade
+        <item>Electrician</item>
+        <item>Plumber</item>
+        <item>Carpenter</item>
+        <item>Painter</item>
+        <item>Landscaper</item>
+        <item>Roofer</item>
+    </array>
+</resources>
